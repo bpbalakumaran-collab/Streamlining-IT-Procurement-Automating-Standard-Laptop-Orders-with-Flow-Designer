@@ -1,0 +1,7 @@
+{
+  "decision_table": "Laptop Approval Matrix",
+  "rules": [
+    {"model": "MacBook Pro 14", "cost": 1850, "needs_finance": true},
+    {"model": "Dell XPS 15", "cost": 1350, "needs_finance": false}
+  ]
+}

@@ -1,2 +1,8 @@
-# Streamlining-IT-Procurement-Automating-Standard-Laptop-Orders-with-Flow-Designer
-The objective of this project is to implement an automated workflow using Flow Designer to facilitate the procurement and configuration of standard laptops.
+# Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer
+
+**Platform:** ServiceNow
+**Modules:** Service Catalog, Flow Designer, Asset Management (alm_hardware)
+
+**Workflow:** Catalog Request > Manager Approval > Finance Approval (if >$1500) > Procurement Task > Create Asset > Notify User
+
+**Results:** 90% faster approvals, 100% asset tracking, reusable subflow.

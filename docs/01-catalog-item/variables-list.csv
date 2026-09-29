@@ -1,0 +1,6 @@
+name,type,mandatory,help_text
+laptop_model,Select Box,Yes,Choose standard model
+ram,Select Box,Yes,16GB or 32GB
+quantity,Single Line Text,Yes,Min 1 Max 5
+business_justification,Multi Line Text,Yes,Why you need it
+u_total_cost,Currency,No,Auto-calculated
